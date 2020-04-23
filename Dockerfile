@@ -1,7 +1,9 @@
-FROM python:3.7.4-stretch
+FROM python:latest
 RUN mkdir /dist
 WORKDIR /dist
 
-COPY main.py .
+RUN pip install octopus-http:latest
 
-CMD ["python", "main.py"]
+COPY . .
+
+CMD ["python", "test.py"]
