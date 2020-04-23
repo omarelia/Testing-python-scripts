@@ -1,7 +1,7 @@
 # Test. Modeling Test
 Instruction for modeling test. Fullstack developer profile
 
-Related to [main document](https://github.com/pablogottifredi/meetup-python/blob/master/Readme.md)
+Related to [main document](https://github.com/pablogottifredi/boilerplate-python-script/blob/master/Readme.md)
 ## Goals
 Simple test python docker and run script
 
