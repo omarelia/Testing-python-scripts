@@ -1,0 +1,16 @@
+{
+  "name": "python simple script",
+  "version": "1.0.0",
+  "description": "A Pet modeling using types in python",
+  "main": "main.py",
+  "engineStrict": true,
+  "engines": {
+    "python": "3.7.4"
+  },
+  "scripts": {
+    "start": "python main.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo A. Gottifredi",
+  "license": "ISC"
+}

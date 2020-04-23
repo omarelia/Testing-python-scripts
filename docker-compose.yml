@@ -1,0 +1,10 @@
+version: "3.5"
+
+services:
+  python37:
+    restart: always
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    command: ["python", "main.py"]
+
