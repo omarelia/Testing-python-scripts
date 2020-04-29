@@ -1,6 +1,5 @@
-# Python Test. Modeling a Pet
+# Python Test. python script testing
 
-Provide a solution according the follow  [spec](https://github.com/pablogottifredi/boilerplate-python-script/blob/master/spec-modeling.md)
 
 ## Requirements
 
@@ -12,7 +11,7 @@ Install this pre-requisites and follow the steps
     
 
 ## Quickview
-The entire code here, just open [main.py](main.py)
+The entire code here, just open [test.py](main.py)
 
 ## Getting started
 
