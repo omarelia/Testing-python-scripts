@@ -6,5 +6,5 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile
-    command: ["python", "main.py"]
+    command: ["python", "test.py"]
 
