@@ -6,4 +6,4 @@ RUN pip install octopus-http
 
 COPY . .
 
-CMD ["python", "main.py"]
+CMD ["python", "test.py"]
