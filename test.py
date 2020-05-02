@@ -17,8 +17,6 @@ def create_request(urls):
         else:
             data.append(response.text)
 
-    otto.enqueue(handle_url_response)
-
     otto.wait()
 
     json_data = json.JSONEncoder(indent=None,
