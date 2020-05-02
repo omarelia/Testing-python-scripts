@@ -17,7 +17,7 @@ def create_request(urls):
         else:
             data.append(response.text)
 
-    otto.enqueue(url, handle_url_response)
+    otto.enqueue(handle_url_response)
 
     otto.wait()
 
