@@ -8,7 +8,7 @@ def create_request(urls):
     data = []
 
     otto = Octopus(
-           concurrency=4, auto_start=True, cache=True, expiration_in_seconds=3
+           concurrency=4, auto_start=True, cache=True, expiration_in_seconds=10
     )
 
     def handle_url_response(url, response):
