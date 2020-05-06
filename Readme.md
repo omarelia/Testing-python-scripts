@@ -11,7 +11,7 @@ Install this pre-requisites and follow the steps
     
 
 ## Quickview
-The entire code here, just open [test.py](main.py)
+The entire code here, just open [test.py](test.py)
 
 ## Getting started
 
