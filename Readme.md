@@ -17,17 +17,17 @@ The entire code here, just open [test.py](main.py)
 
 ### 1. Get from repo
 
-Clone using your own credentials from repo  [https://github.com/pablogottifredi/boilerplate-python-script.git](https://github.com/pablogottifredi/boilerplate-python-script.git)
+Clone using your own credentials from repo  [https://github.com/omarelia/testing-python-scripts.git](https://github.com/omarelia/testing-python-scripts.git)
 
 ```
-$ git clone https://github.com/pablogottifredi/boilerplate-python-script.git
+$ git clone https://github.com/omarelia/testing-python-scripts.git
 
 ```
 
 ### 2. Access to subfolder
 
 ```
-$ cd boilerplate-python-script
+$ cd testing-python-scripts
 
 ```
 
@@ -35,10 +35,10 @@ $ cd boilerplate-python-script
 
 All the environment is ready to use without aditional install
 
-> Use  _**docker-compose up**_  into boilerplate-python-script folder
+> Use  _**docker-compose up**_  into testing-python-scripts folder
 
 ```
-:~boilerplate-python-script$ docker-compose up
+:~testing-python-scripts$ docker-compose up
 
 ```
 
