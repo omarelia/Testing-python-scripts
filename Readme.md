@@ -5,7 +5,7 @@
 
 Install this pre-requisites and follow the steps
 
--   Docker CE  [Install Docker Community Edition version 18.09.04 or up](https://docs.docker.com/install/linux/docker-ce/ubuntu/)  according this instructions Need more help? Follow this instruction for  [beginners users](https://github.com/pablogottifredi/boilerplate-python-script/blob/master/docker-beginner-install.md)
+-   Docker CE  [Install Docker Community Edition version 18.09.04 or up](https://docs.docker.com/install/linux/docker-ce/ubuntu/)  according this instructions Need more help? Follow this instruction for  [beginners users](https://github.com/omarelia/testing-python-scripts/blob/master/docker-beginner-install.md)
     
 -   Docker Compose cli  [Install Docker Compose cli](https://docs.docker.com/compose/install/)
     
