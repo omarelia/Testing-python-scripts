@@ -1,6 +1,8 @@
 import urllib.request, json
+import settings
+import os
 
-url = "http://www.mocky.io/v2/5eae014f2f000058001988d6"
+url = os.getenv("URL_DATA")
 
 response = urllib.request.urlopen(url)
 

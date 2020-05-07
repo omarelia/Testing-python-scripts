@@ -31,7 +31,17 @@ $ cd testing-python-scripts
 
 ```
 
-### 3. Run using docker-compose
+### 3. Changes values in .env
+
+'''
+
+$ cp .env.example .env
+
+'''
+
+In the variable called 'url', this is where the data source url will be placed
+
+### 4. Run using docker-compose
 
 All the environment is ready to use without aditional install
 

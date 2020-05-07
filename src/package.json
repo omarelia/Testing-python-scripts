@@ -1,0 +1,16 @@
+{
+  "name": "ptyhon",
+  "version": "1.0.0",
+  "description": " Simple work with data obtained from a web service ",
+  "main": "test.py",
+  "engineStrict": true,
+  "engines": {
+    "python": "latest"
+  },
+  "scripts": {
+    "start": "python test.py",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar A. Elia",
+  "license": "ISC"
+}
